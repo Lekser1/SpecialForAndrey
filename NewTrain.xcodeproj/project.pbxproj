@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4C5E78B728CA57CA009D14C1 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C5E78B628CA57CA009D14C1 /* ViewController2.swift */; };
+		4C5E78B928CDE01D009D14C1 /* Don_Toliver.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4C5E78B828CDE01C009D14C1 /* Don_Toliver.mp3 */; };
 		4CF8D41528C66D3D00FE5476 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF8D41428C66D3D00FE5476 /* AppDelegate.swift */; };
 		4CF8D41728C66D3D00FE5476 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF8D41628C66D3D00FE5476 /* SceneDelegate.swift */; };
 		4CF8D41928C66D3D00FE5476 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CF8D41828C66D3D00FE5476 /* ViewController.swift */; };
@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4C5E78B628CA57CA009D14C1 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		4C5E78B828CDE01C009D14C1 /* Don_Toliver.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Don_Toliver.mp3; sourceTree = SOURCE_ROOT; };
 		4CF8D41128C66D3D00FE5476 /* NewTrain.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewTrain.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CF8D41428C66D3D00FE5476 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4CF8D41628C66D3D00FE5476 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,11 +61,11 @@
 				4CF8D41428C66D3D00FE5476 /* AppDelegate.swift */,
 				4CF8D41628C66D3D00FE5476 /* SceneDelegate.swift */,
 				4CF8D41828C66D3D00FE5476 /* ViewController.swift */,
-				4C5E78B628CA57CA009D14C1 /* ViewController2.swift */,
 				4CF8D41A28C66D3D00FE5476 /* Main.storyboard */,
 				4CF8D41D28C66D3F00FE5476 /* Assets.xcassets */,
 				4CF8D41F28C66D3F00FE5476 /* LaunchScreen.storyboard */,
 				4CF8D42228C66D3F00FE5476 /* Info.plist */,
+				4C5E78B828CDE01C009D14C1 /* Don_Toliver.mp3 */,
 			);
 			path = NewTrain;
 			sourceTree = "<group>";
@@ -130,6 +130,7 @@
 			files = (
 				4CF8D42128C66D3F00FE5476 /* LaunchScreen.storyboard in Resources */,
 				4CF8D41E28C66D3F00FE5476 /* Assets.xcassets in Resources */,
+				4C5E78B928CDE01D009D14C1 /* Don_Toliver.mp3 in Resources */,
 				4CF8D41C28C66D3D00FE5476 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -142,7 +143,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				4CF8D41928C66D3D00FE5476 /* ViewController.swift in Sources */,
-				4C5E78B728CA57CA009D14C1 /* ViewController2.swift in Sources */,
 				4CF8D41528C66D3D00FE5476 /* AppDelegate.swift in Sources */,
 				4CF8D41728C66D3D00FE5476 /* SceneDelegate.swift in Sources */,
 			);
